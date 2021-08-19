@@ -1,0 +1,17 @@
+# プロジェクトの除外パス
+/book-node-reactjs-master/src/ch3/inch_to_cm/out/
+/book-node-reactjs-master/src/ch3/input_compo/out/
+/book-node-reactjs-master/src/ch3/input_zip/out/
+/book-node-reactjs-master/src/ch4/electron_clipfmt/out/
+/book-node-reactjs-master/src/ch4/mstdn_cli/out/
+/book-node-reactjs-master/src/ch5/bbs/public/
+/book-node-reactjs-master/src/ch5/flux_test/out/
+/book-node-reactjs-master/src/ch6/sns/public/
+/book-node-reactjs-master/src/ch6/tegaki/public/
+/node_modules/
+/src/ch2/test-webpack/dist/
+/src/ch2/test-webpack/node_modules/
+/src/ch4/electron_hello/node_modules/
+/src/ch5/express_test/node_modules/
+/src/ch5/flux_test/node_modules/
+/src/ch5/flux_test/out/

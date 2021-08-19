@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/book-node-reactjs-master/src/ch3/inch_to_cm/sagent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hello" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/ch3/cycle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/ch3/form_simple" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/ch3/parts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/ch3/sagent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/ch3/stopwatch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/ch5/router_test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/router_test" vcs="Git" />
+  </component>
+</project>
